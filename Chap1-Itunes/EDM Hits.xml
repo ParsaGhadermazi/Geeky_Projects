@@ -1,0 +1,1652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2021-12-06T05:47:46Z</date>
+	<key>Application Version</key><string>1.1.6.32</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/parsa/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>9BD016D0CE705B9A</string>
+	<key>Tracks</key>
+	<dict>
+		<key>1087</key>
+		<dict>
+			<key>Track ID</key><integer>1087</integer>
+			<key>Name</key><string>Rapture</string>
+			<key>Artist</key><string>Alok &#38; Daniel Blume</string>
+			<key>Album Artist</key><string>Alok</string>
+			<key>Composer</key><string>M. Moser &#38; N. Ali</string>
+			<key>Album</key><string>Can't Get You Out Of My Head, Vol. 001 - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6036419</integer>
+			<key>Total Time</key><integer>166452</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-01-08T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Can't Get You Out Of My Head, Vol. 001 - Single</string>
+			<key>Sort Artist</key><string>Alok &#38; Daniel Blume</string>
+			<key>Sort Name</key><string>Rapture</string>
+			<key>Persistent ID</key><string>DA4424C722A1842D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1089</key>
+		<dict>
+			<key>Track ID</key><integer>1089</integer>
+			<key>Name</key><string>Good Good</string>
+			<key>Artist</key><string>Dubdogz &#38; Cat Dealers</string>
+			<key>Album Artist</key><string>Dubdogz &#38; Cat Dealers</string>
+			<key>Composer</key><string>Conor Joseph Byrne, Lucas Ruback Schmidt, Luiz Guilherme Cardoso, Marcos Ruback Schmidt &#38; Pedro Henrique Cardoso</string>
+			<key>Album</key><string>Good Good - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5376331</integer>
+			<key>Total Time</key><integer>142193</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-06-18T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Good Good - Single</string>
+			<key>Sort Artist</key><string>Dubdogz &#38; Cat Dealers</string>
+			<key>Sort Name</key><string>Good Good</string>
+			<key>Persistent ID</key><string>9352524A6EA00C5F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1091</key>
+		<dict>
+			<key>Track ID</key><integer>1091</integer>
+			<key>Name</key><string>Go Ahead Now</string>
+			<key>Artist</key><string>FAULHABER</string>
+			<key>Album Artist</key><string>FAULHABER</string>
+			<key>Composer</key><string>Aaron Comess, Christopher Gross, Eric Schenkman &#38; Mark White</string>
+			<key>Album</key><string>Go Ahead Now - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5580354</integer>
+			<key>Total Time</key><integer>152990</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-04-30T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Go Ahead Now - Single</string>
+			<key>Sort Artist</key><string>FAULHABER</string>
+			<key>Sort Name</key><string>Go Ahead Now</string>
+			<key>Persistent ID</key><string>4EFE4B65DCFD1FBC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1093</key>
+		<dict>
+			<key>Track ID</key><integer>1093</integer>
+			<key>Name</key><string>Human (Rompasso Remix)</string>
+			<key>Artist</key><string>Swanky Tunes</string>
+			<key>Album Artist</key><string>Swanky Tunes</string>
+			<key>Composer</key><string>Vadim Shpak &#38; Dmitry Burykin</string>
+			<key>Album</key><string>Human (Remixes) - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5524470</integer>
+			<key>Total Time</key><integer>151500</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-03-12T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Human (Remixes) - Single</string>
+			<key>Sort Artist</key><string>Swanky Tunes</string>
+			<key>Sort Name</key><string>Human (Rompasso Remix)</string>
+			<key>Persistent ID</key><string>DABE692171C40BBE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1095</key>
+		<dict>
+			<key>Track ID</key><integer>1095</integer>
+			<key>Name</key><string>Show The Way</string>
+			<key>Artist</key><string>Firebeatz</string>
+			<key>Album Artist</key><string>Firebeatz</string>
+			<key>Composer</key><string>Jurre van Doeselaar &#38; Tim Smulders</string>
+			<key>Album</key><string>Show The Way - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6620034</integer>
+			<key>Total Time</key><integer>180480</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-04-02T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Show The Way - Single</string>
+			<key>Sort Artist</key><string>Firebeatz</string>
+			<key>Sort Name</key><string>Show The Way</string>
+			<key>Persistent ID</key><string>D8305C79120F0C7E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1097</key>
+		<dict>
+			<key>Track ID</key><integer>1097</integer>
+			<key>Name</key><string>Touch</string>
+			<key>Artist</key><string>Vinai</string>
+			<key>Album Artist</key><string>Vinai</string>
+			<key>Composer</key><string>Alessandro Vinai, Andrea Vinai, Henri Salonen, Maia Wright &#38; Robin Stjernberg</string>
+			<key>Album</key><string>Touch - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5248457</integer>
+			<key>Total Time</key><integer>144677</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-06-18T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Touch - Single</string>
+			<key>Sort Artist</key><string>Vinai</string>
+			<key>Sort Name</key><string>Touch</string>
+			<key>Persistent ID</key><string>FABB7740075A2973</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1099</key>
+		<dict>
+			<key>Track ID</key><integer>1099</integer>
+			<key>Name</key><string>Back to You</string>
+			<key>Artist</key><string>Nicky Romero</string>
+			<key>Album Artist</key><string>Nicky Romero</string>
+			<key>Composer</key><string>Nick Rotteveel, Timmo Anton Jan Hendriks, Mischa Samuel Lugthart, Eddie Jonsson &#38; Emil Cato</string>
+			<key>Album</key><string>Back to You - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6807513</integer>
+			<key>Total Time</key><integer>185812</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-02-26T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Back to You - Single</string>
+			<key>Sort Artist</key><string>Nicky Romero</string>
+			<key>Sort Name</key><string>Back to You</string>
+			<key>Persistent ID</key><string>74F25FABC76BC14C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1101</key>
+		<dict>
+			<key>Track ID</key><integer>1101</integer>
+			<key>Name</key><string>Hero</string>
+			<key>Artist</key><string>Afrojack &#38; David Guetta</string>
+			<key>Album Artist</key><string>Afrojack &#38; David Guetta</string>
+			<key>Composer</key><string>David Guetta, Ellie Goulding, Jamie Scott, Mikkel S. Eriksen, Nick van de Wall, Ryan B Tedder &#38; Tor E. Hermansen</string>
+			<key>Album</key><string>Hero - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6182016</integer>
+			<key>Total Time</key><integer>171840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-04-30T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hero - Single</string>
+			<key>Sort Artist</key><string>Afrojack &#38; David Guetta</string>
+			<key>Sort Name</key><string>Hero</string>
+			<key>Persistent ID</key><string>3B71D46252A08BDE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1103</key>
+		<dict>
+			<key>Track ID</key><integer>1103</integer>
+			<key>Name</key><string>Going Dumb</string>
+			<key>Artist</key><string>Alesso &#38; CORSAK</string>
+			<key>Album Artist</key><string>Alesso, CORSAK &#38; Stray Kids</string>
+			<key>Composer</key><string>Calle Lehmann &#38; Alessandro Rodolfo Renato Lindblad</string>
+			<key>Album</key><string>Going Dumb - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6125606</integer>
+			<key>Total Time</key><integer>168601</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-03-19T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Going Dumb - Single</string>
+			<key>Sort Artist</key><string>Alesso &#38; CORSAK</string>
+			<key>Sort Name</key><string>Going Dumb</string>
+			<key>Persistent ID</key><string>1FDF637A060FE762</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1105</key>
+		<dict>
+			<key>Track ID</key><integer>1105</integer>
+			<key>Name</key><string>Midnight Love</string>
+			<key>Artist</key><string>Almero</string>
+			<key>Album Artist</key><string>Almero</string>
+			<key>Composer</key><string>Romain Chambon</string>
+			<key>Album</key><string>Midnight Love - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6091108</integer>
+			<key>Total Time</key><integer>167070</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-09-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Midnight Love - Single</string>
+			<key>Sort Artist</key><string>Almero</string>
+			<key>Sort Name</key><string>Midnight Love</string>
+			<key>Persistent ID</key><string>1DF86A53661D8416</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1107</key>
+		<dict>
+			<key>Track ID</key><integer>1107</integer>
+			<key>Name</key><string>I Will Be A Lion (feat. Jake Reese)</string>
+			<key>Artist</key><string>KSHMR</string>
+			<key>Album Artist</key><string>KSHMR</string>
+			<key>Composer</key><string>Jaap Siewertz van Reesema, Joren van der Voort &#38; Niles Hollowell-Dhar</string>
+			<key>Album</key><string>Harmonica Andromeda</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7969960</integer>
+			<key>Total Time</key><integer>223242</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-03-19T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Harmonica Andromeda</string>
+			<key>Sort Artist</key><string>KSHMR</string>
+			<key>Sort Name</key><string>I Will Be A Lion (feat. Jake Reese)</string>
+			<key>Persistent ID</key><string>1ED11493AEBC7A52</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1109</key>
+		<dict>
+			<key>Track ID</key><integer>1109</integer>
+			<key>Name</key><string>No Regrets (Stadiumx Remix)</string>
+			<key>Artist</key><string>Jeffrey Sutorius &#38; Jordan Grace</string>
+			<key>Album Artist</key><string>Jeffrey Sutorius &#38; Jordan Grace</string>
+			<key>Composer</key><string>Jeffrey X Sutorius</string>
+			<key>Album</key><string>No Regrets (Stadiumx Remix) - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6917377</integer>
+			<key>Total Time</key><integer>189500</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-03-05T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>No Regrets (Stadiumx Remix) - Single</string>
+			<key>Sort Artist</key><string>Jeffrey Sutorius &#38; Jordan Grace</string>
+			<key>Sort Name</key><string>No Regrets (Stadiumx Remix)</string>
+			<key>Persistent ID</key><string>30F08272BABC927B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1111</key>
+		<dict>
+			<key>Track ID</key><integer>1111</integer>
+			<key>Name</key><string>Red Light, Green Light</string>
+			<key>Artist</key><string>Squid Kids &#38; 71 Digits</string>
+			<key>Album Artist</key><string>Squid Kids &#38; 71 Digits</string>
+			<key>Composer</key><string>Addy Van Der Zwan, Mark Nieuwenhuijzen &#38; Robin Snijder</string>
+			<key>Album</key><string>Red Light, Green Light - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4818474</integer>
+			<key>Total Time</key><integer>131429</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-10-12T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Red Light, Green Light - Single</string>
+			<key>Sort Artist</key><string>Squid Kids &#38; 71 Digits</string>
+			<key>Sort Name</key><string>Red Light, Green Light</string>
+			<key>Persistent ID</key><string>3DCA4EF1B91622AA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1113</key>
+		<dict>
+			<key>Track ID</key><integer>1113</integer>
+			<key>Name</key><string>Over You (feat. Lovespeake)</string>
+			<key>Artist</key><string>KSHMR</string>
+			<key>Album Artist</key><string>KSHMR</string>
+			<key>Composer</key><string>Alexander Standal Pavelich, Erik Smaaland &#38; Niles Hollowell-Dhar</string>
+			<key>Album</key><string>Over You (feat. Lovespeake) - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6370125</integer>
+			<key>Total Time</key><integer>173858</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-10-08T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Over You (feat. Lovespeake) - Single</string>
+			<key>Sort Artist</key><string>KSHMR</string>
+			<key>Sort Name</key><string>Over You (feat. Lovespeake)</string>
+			<key>Persistent ID</key><string>2B33D8AD66BE81F2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1115</key>
+		<dict>
+			<key>Track ID</key><integer>1115</integer>
+			<key>Name</key><string>Make It Good</string>
+			<key>Artist</key><string>Jauz</string>
+			<key>Album Artist</key><string>Jauz</string>
+			<key>Composer</key><string>Katya Anna Marie Edwards, Keir MacCulloch, Kyle Mackenzie &#38; Samuel Vogel</string>
+			<key>Album</key><string>Make It Good - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5852204</integer>
+			<key>Total Time</key><integer>159344</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Release Date</key><date>2021-10-08T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Make It Good - Single</string>
+			<key>Sort Artist</key><string>Jauz</string>
+			<key>Sort Name</key><string>Make It Good</string>
+			<key>Persistent ID</key><string>7EE3655BC7A6D052</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1117</key>
+		<dict>
+			<key>Track ID</key><integer>1117</integer>
+			<key>Name</key><string>Camelot (feat. Smash Mouth)</string>
+			<key>Artist</key><string>Timmy Trumpet</string>
+			<key>Album Artist</key><string>Timmy Trumpet</string>
+			<key>Composer</key><string>Andrew Allen, Jeremy Bunawan, John Dexter, Ryan Stewart &#38; Timothy Jude Smith</string>
+			<key>Album</key><string>Camelot (feat. Smash Mouth) - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5681901</integer>
+			<key>Total Time</key><integer>154134</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-05-28T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Camelot (feat. Smash Mouth) - Single</string>
+			<key>Sort Artist</key><string>Timmy Trumpet</string>
+			<key>Sort Name</key><string>Camelot (feat. Smash Mouth)</string>
+			<key>Persistent ID</key><string>2BDA39A5C77D1693</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1119</key>
+		<dict>
+			<key>Track ID</key><integer>1119</integer>
+			<key>Name</key><string>Mine (feat. Dawty Music, Preston Harris &#38; Sophia Sugarman)</string>
+			<key>Artist</key><string>HUGEL</string>
+			<key>Album Artist</key><string>HUGEL</string>
+			<key>Composer</key><string>Florent Hugel, Preston Joel Harris, Samuel Brennan, Sophia Sugarman, Tom Hollings &#38; Warren Zavala</string>
+			<key>Album</key><string>Mine (feat. Dawty Music, Preston Harris &#38; Sophia Sugarman) - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6077821</integer>
+			<key>Total Time</key><integer>167750</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-04-02T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mine (feat. Dawty Music, Preston Harris &#38; Sophia Sugarman) - Single</string>
+			<key>Sort Artist</key><string>HUGEL</string>
+			<key>Sort Name</key><string>Mine (feat. Dawty Music, Preston Harris &#38; Sophia Sugarman)</string>
+			<key>Persistent ID</key><string>EFA66F648F22E6CD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1121</key>
+		<dict>
+			<key>Track ID</key><integer>1121</integer>
+			<key>Name</key><string>Love Tonight (David Guetta Remix Edit)</string>
+			<key>Artist</key><string>Shouse &#38; David Guetta</string>
+			<key>Album Artist</key><string>Shouse &#38; David Guetta</string>
+			<key>Composer</key><string>Jack Madin &#38; Edward Service</string>
+			<key>Album</key><string>Love Tonight (David Guetta Remix) - Single</string>
+			<key>Genre</key><string>House</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5838765</integer>
+			<key>Total Time</key><integer>158095</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-06-11T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Love Tonight (David Guetta Remix) - Single</string>
+			<key>Sort Artist</key><string>Shouse &#38; David Guetta</string>
+			<key>Sort Name</key><string>Love Tonight (David Guetta Remix Edit)</string>
+			<key>Persistent ID</key><string>3D44ACD8E82101B5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1123</key>
+		<dict>
+			<key>Track ID</key><integer>1123</integer>
+			<key>Name</key><string>Too Much</string>
+			<key>Artist</key><string>Dimitri Vegas, DVBBS &#38; Roy Woods</string>
+			<key>Album Artist</key><string>Dimitri Vegas, DVBBS &#38; Roy Woods</string>
+			<key>Composer</key><string>Dimitri Thivaios, Michael Thivaios, Denzel Spencer, Christopher van den Hoef, Alexander van den Hoef, Christian Dold, Michael Gomes &#38; Cameron Burwell</string>
+			<key>Album</key><string>Too Much - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4610924</integer>
+			<key>Total Time</key><integer>125714</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-02-19T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Too Much - Single</string>
+			<key>Sort Artist</key><string>Dimitri Vegas, DVBBS &#38; Roy Woods</string>
+			<key>Sort Name</key><string>Too Much</string>
+			<key>Persistent ID</key><string>3510AEECF99A3B93</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1125</key>
+		<dict>
+			<key>Track ID</key><integer>1125</integer>
+			<key>Name</key><string>Amnesia (feat. GASHI)</string>
+			<key>Artist</key><string>Loud Luxury &#38; Ship Wrek</string>
+			<key>Album Artist</key><string>Loud Luxury &#38; Ship Wrek</string>
+			<key>Composer</key><string>Andreas Krüger, Andrew John Fedyk, Collin Joseph Maguire, Conor Blake Manning, GASHI, Jordan Shaw, Joseph Julian Depace, Roberto Manfredi &#38; Tillis James Churchill III</string>
+			<key>Album</key><string>Amnesia (feat. GASHI) - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7144989</integer>
+			<key>Total Time</key><integer>193548</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-03-04T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Amnesia (feat. GASHI) - Single</string>
+			<key>Sort Artist</key><string>Loud Luxury &#38; Ship Wrek</string>
+			<key>Sort Name</key><string>Amnesia (feat. GASHI)</string>
+			<key>Persistent ID</key><string>9790D0573447415B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1127</key>
+		<dict>
+			<key>Track ID</key><integer>1127</integer>
+			<key>Name</key><string>Light Up My Life</string>
+			<key>Artist</key><string>Jack wins &#38; Joe Stone</string>
+			<key>Album Artist</key><string>Jack wins &#38; Joe Stone</string>
+			<key>Composer</key><string>Leonard Patrick Raymond, Madonna L Ciccone &#38; Patrick Pieter Paul Hagenaar</string>
+			<key>Album</key><string>Light Up My Life - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5383024</integer>
+			<key>Total Time</key><integer>144590</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-05-14T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Light Up My Life - Single</string>
+			<key>Sort Artist</key><string>Jack wins &#38; Joe Stone</string>
+			<key>Sort Name</key><string>Light Up My Life</string>
+			<key>Persistent ID</key><string>97A740B86B53D6F4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1129</key>
+		<dict>
+			<key>Track ID</key><integer>1129</integer>
+			<key>Name</key><string>Hide Away</string>
+			<key>Artist</key><string>Vinai &#38; LA Vision</string>
+			<key>Album Artist</key><string>Vinai &#38; LA Vision</string>
+			<key>Composer</key><string>Alessandro Vinai, Andrea Vinai, David Patterson &#38; Marco Sissa</string>
+			<key>Album</key><string>Hide Away - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5473823</integer>
+			<key>Total Time</key><integer>150750</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-09-10T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hide Away - Single</string>
+			<key>Sort Artist</key><string>Vinai &#38; LA Vision</string>
+			<key>Sort Name</key><string>Hide Away</string>
+			<key>Persistent ID</key><string>60530CC1BDD4BBFF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1131</key>
+		<dict>
+			<key>Track ID</key><integer>1131</integer>
+			<key>Name</key><string>Pressure (feat. Tove Lo)</string>
+			<key>Artist</key><string>Martin Garrix</string>
+			<key>Album Artist</key><string>Martin Garrix</string>
+			<key>Composer</key><string>Tove Lo, Martijn Garritsen, Oskar Rindborg &#38; Wilhelm Börjesson</string>
+			<key>Album</key><string>Pressure (feat. Tove Lo) - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5342427</integer>
+			<key>Total Time</key><integer>144391</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-02-05T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pressure (feat. Tove Lo) - Single</string>
+			<key>Sort Artist</key><string>Martin Garrix</string>
+			<key>Sort Name</key><string>Pressure (feat. Tove Lo)</string>
+			<key>Persistent ID</key><string>CCAB0A61A6788F00</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1133</key>
+		<dict>
+			<key>Track ID</key><integer>1133</integer>
+			<key>Name</key><string>You Know</string>
+			<key>Artist</key><string>Tujamo</string>
+			<key>Album Artist</key><string>Tujamo</string>
+			<key>Composer</key><string>Matthias Richter, Ki Fitzgerald &#38; Duck Blackwell</string>
+			<key>Album</key><string>You Know - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4715127</integer>
+			<key>Total Time</key><integer>126532</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-04-30T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>You Know - Single</string>
+			<key>Sort Artist</key><string>Tujamo</string>
+			<key>Sort Name</key><string>You Know</string>
+			<key>Persistent ID</key><string>DD234734D976F308</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1135</key>
+		<dict>
+			<key>Track ID</key><integer>1135</integer>
+			<key>Name</key><string>Sideways (Quintino Remix)</string>
+			<key>Artist</key><string>ILLENIUM, Valerie Broussard &#38; Nurko</string>
+			<key>Album Artist</key><string>ILLENIUM, Valerie Broussard &#38; Nurko</string>
+			<key>Composer</key><string>Valerie Broussard, Benjamin Samama, David Breadmore Arkwright, Jack Leech, Nicholas Miller &#38; Valerie Broussard</string>
+			<key>Album</key><string>Sideways (Quintino Remix) - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7781723</integer>
+			<key>Total Time</key><integer>218438</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-05-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sideways (Quintino Remix) - Single</string>
+			<key>Sort Artist</key><string>ILLENIUM, Valerie Broussard &#38; Nurko</string>
+			<key>Sort Name</key><string>Sideways (Quintino Remix)</string>
+			<key>Persistent ID</key><string>17CA326C3CAE8C77</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1137</key>
+		<dict>
+			<key>Track ID</key><integer>1137</integer>
+			<key>Name</key><string>Distant Memory</string>
+			<key>Artist</key><string>R3HAB, Timmy Trumpet &#38; W&#38;W</string>
+			<key>Album Artist</key><string>R3HAB, Timmy Trumpet &#38; W&#38;W</string>
+			<key>Composer</key><string>Willem van Hanegem, Andre Jensen, Anders Nilsen, Fadil El Ghoul, Iselin Solheim, Timothy Jude Smith &#38; Ward van der Harst</string>
+			<key>Album</key><string>Distant Memory - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6005897</integer>
+			<key>Total Time</key><integer>150469</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Release Date</key><date>2021-03-12T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Distant Memory - Single</string>
+			<key>Sort Artist</key><string>R3HAB, Timmy Trumpet &#38; W&#38;W</string>
+			<key>Sort Name</key><string>Distant Memory</string>
+			<key>Persistent ID</key><string>1DE9C672858C6017</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1139</key>
+		<dict>
+			<key>Track ID</key><integer>1139</integer>
+			<key>Name</key><string>All I Want (feat. Stonefox) [Avian Grays Remix]</string>
+			<key>Artist</key><string>Alok &#38; Liu</string>
+			<key>Album Artist</key><string>Alok &#38; Liu</string>
+			<key>Composer</key><string>Jenna Russo &#38; Tim Carroll</string>
+			<key>Album</key><string>All I Want (feat. Stonefox) [Avian Grays Remix] - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5395773</integer>
+			<key>Total Time</key><integer>148500</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-04-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>All I Want (feat. Stonefox) [Avian Grays Remix] - Single</string>
+			<key>Sort Artist</key><string>Alok &#38; Liu</string>
+			<key>Sort Name</key><string>All I Want (feat. Stonefox) [Avian Grays Remix]</string>
+			<key>Persistent ID</key><string>5DE5203967968AE0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1141</key>
+		<dict>
+			<key>Track ID</key><integer>1141</integer>
+			<key>Name</key><string>BED (THAT KIND Remix)</string>
+			<key>Artist</key><string>Joel Corry, RAYE &#38; David Guetta</string>
+			<key>Album Artist</key><string>Joel Corry, RAYE &#38; David Guetta</string>
+			<key>Composer</key><string>David Guetta, Giorgio Tuinfort, Janee 'Jin Jin' Bennett, Joel Corry, Lewis Thompson, Neave Applebaum &#38; Rachel Keen</string>
+			<key>Album</key><string>BED (The Remixes, Pt. 2) - EP</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6067558</integer>
+			<key>Total Time</key><integer>161558</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-04-23T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>BED (The Remixes, Pt. 2) - EP</string>
+			<key>Sort Artist</key><string>Joel Corry, RAYE &#38; David Guetta</string>
+			<key>Sort Name</key><string>BED (THAT KIND Remix)</string>
+			<key>Persistent ID</key><string>C3B8023DC2DC939E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1143</key>
+		<dict>
+			<key>Track ID</key><integer>1143</integer>
+			<key>Name</key><string>Hey Motherfucker</string>
+			<key>Artist</key><string>Timmy Trumpet &#38; Nitti Gritti</string>
+			<key>Album Artist</key><string>Timmy Trumpet &#38; Nitti Gritti</string>
+			<key>Composer</key><string>JORDY BUIJS, Richard Cool Mears, Sasha Sirota &#38; Timothy Smith</string>
+			<key>Album</key><string>Hey Motherfucker - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4321667</integer>
+			<key>Total Time</key><integer>112770</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-05-07T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hey Motherfucker - Single</string>
+			<key>Sort Artist</key><string>Timmy Trumpet &#38; Nitti Gritti</string>
+			<key>Sort Name</key><string>Hey Motherfucker</string>
+			<key>Persistent ID</key><string>5C208D46A37C7377</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1145</key>
+		<dict>
+			<key>Track ID</key><integer>1145</integer>
+			<key>Name</key><string>Somebody Like You (feat. Lena Leon)</string>
+			<key>Artist</key><string>Vicetone</string>
+			<key>Album Artist</key><string>Vicetone</string>
+			<key>Composer</key><string>Victor Pool, Ruben Christopher den Boer, April Bender &#38; Yelena Rachael Leon</string>
+			<key>Album</key><string>Legacy</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7508821</integer>
+			<key>Total Time</key><integer>208571</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-04-02T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Legacy</string>
+			<key>Sort Artist</key><string>Vicetone</string>
+			<key>Sort Name</key><string>Somebody Like You (feat. Lena Leon)</string>
+			<key>Persistent ID</key><string>23CEACDAD36613D4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1147</key>
+		<dict>
+			<key>Track ID</key><integer>1147</integer>
+			<key>Name</key><string>Bongo Cha Cha Cha</string>
+			<key>Artist</key><string>Goodboys</string>
+			<key>Album Artist</key><string>Goodboys</string>
+			<key>Composer</key><string>Ernst Bader, Ralf Arnie &#38; Werner Mueller</string>
+			<key>Album</key><string>Bongo Cha Cha Cha - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4260550</integer>
+			<key>Total Time</key><integer>113128</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-05-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Bongo Cha Cha Cha - Single</string>
+			<key>Sort Artist</key><string>Goodboys</string>
+			<key>Sort Name</key><string>Bongo Cha Cha Cha</string>
+			<key>Persistent ID</key><string>B8F8AD1C2A98281A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1149</key>
+		<dict>
+			<key>Track ID</key><integer>1149</integer>
+			<key>Name</key><string>Imagining (feat. Gabrielle Aplin)</string>
+			<key>Artist</key><string>Michael Calfan</string>
+			<key>Album Artist</key><string>Michael Calfan</string>
+			<key>Composer</key><string>Gabrielle Aplin, Lewis Thompson, Michael Calfan, Rob Harvey &#38; Tim Powell</string>
+			<key>Album</key><string>Imagining (feat. Gabrielle Aplin) - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6213548</integer>
+			<key>Total Time</key><integer>174194</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-07-16T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Imagining (feat. Gabrielle Aplin) - Single</string>
+			<key>Sort Artist</key><string>Michael Calfan</string>
+			<key>Sort Name</key><string>Imagining (feat. Gabrielle Aplin)</string>
+			<key>Persistent ID</key><string>37CB03D7380DE416</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1151</key>
+		<dict>
+			<key>Track ID</key><integer>1151</integer>
+			<key>Name</key><string>Leave a Little Love (Club Mix)</string>
+			<key>Artist</key><string>Alesso &#38; Armin van Buuren</string>
+			<key>Album Artist</key><string>Alesso &#38; Armin van Buuren</string>
+			<key>Composer</key><string>Armin van Buuren, Alessandro Lindblad, Benno de Goeij, Max Wolfgang, Tom Martin &#38; Laura Welsh</string>
+			<key>Album</key><string>Leave a Little Love (Club Mix) - Single</string>
+			<key>Genre</key><string>Trance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6293226</integer>
+			<key>Total Time</key><integer>173831</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-03-12T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Leave a Little Love (Club Mix) - Single</string>
+			<key>Sort Artist</key><string>Alesso &#38; Armin van Buuren</string>
+			<key>Sort Name</key><string>Leave a Little Love (Club Mix)</string>
+			<key>Persistent ID</key><string>DC7B0A72553C908E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1153</key>
+		<dict>
+			<key>Track ID</key><integer>1153</integer>
+			<key>Name</key><string>Ready To Love</string>
+			<key>Artist</key><string>KSHMR</string>
+			<key>Album Artist</key><string>KSHMR</string>
+			<key>Composer</key><string>Aaron Curtis Harmon, Jordan Alexander Reyes, Maurice Devon Powell, Mikhail Beltran, Niles Hollowell-Dhar, Ray Davon Jacobs &#38; Sam Renders</string>
+			<key>Album</key><string>Ready To Love - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6765077</integer>
+			<key>Total Time</key><integer>188852</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-07-16T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ready To Love - Single</string>
+			<key>Sort Artist</key><string>KSHMR</string>
+			<key>Sort Name</key><string>Ready To Love</string>
+			<key>Persistent ID</key><string>790A097AAEE567A9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1155</key>
+		<dict>
+			<key>Track ID</key><integer>1155</integer>
+			<key>Name</key><string>Show Luv</string>
+			<key>Artist</key><string>Arno Cost &#38; Norman Doray</string>
+			<key>Album Artist</key><string>Arno Cost &#38; Norman Doray</string>
+			<key>Composer</key><string>Giorgio Moroder &#38; Sheila Ferguson</string>
+			<key>Album</key><string>Show Luv - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6392782</integer>
+			<key>Total Time</key><integer>173523</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-06-11T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Show Luv - Single</string>
+			<key>Sort Artist</key><string>Arno Cost &#38; Norman Doray</string>
+			<key>Sort Name</key><string>Show Luv</string>
+			<key>Persistent ID</key><string>DE4A6BD0B1A5B056</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1157</key>
+		<dict>
+			<key>Track ID</key><integer>1157</integer>
+			<key>Name</key><string>Take Your Time</string>
+			<key>Artist</key><string>ARTY</string>
+			<key>Album Artist</key><string>ARTY</string>
+			<key>Composer</key><string>Artem Stolyarov, Mike Eyal Aljadeff &#38; Annika Wells</string>
+			<key>Album</key><string>Take Your Time - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6798198</integer>
+			<key>Total Time</key><integer>186142</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-01-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Take Your Time - Single</string>
+			<key>Sort Artist</key><string>ARTY</string>
+			<key>Sort Name</key><string>Take Your Time</string>
+			<key>Persistent ID</key><string>5873325A1155D2F0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1159</key>
+		<dict>
+			<key>Track ID</key><integer>1159</integer>
+			<key>Name</key><string>By Your Side (feat. Tom Grennan) [Oliver Heldens Remix]</string>
+			<key>Artist</key><string>Calvin Harris</string>
+			<key>Album Artist</key><string>Calvin Harris</string>
+			<key>Composer</key><string>Tom Grennan, Adam Wiles, Jamie Scott, Theo Hutchcraft, Mike Needle &#38; John Newman</string>
+			<key>Album</key><string>By Your Side (feat. Tom Grennan) [Remixes] - EP</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8639270</integer>
+			<key>Total Time</key><integer>238065</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-07-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>By Your Side (feat. Tom Grennan) [Remixes] - EP</string>
+			<key>Sort Artist</key><string>Calvin Harris</string>
+			<key>Sort Name</key><string>By Your Side (feat. Tom Grennan) [Oliver Heldens Remix]</string>
+			<key>Persistent ID</key><string>44EA3195B6A2E947</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1161</key>
+		<dict>
+			<key>Track ID</key><integer>1161</integer>
+			<key>Name</key><string>Like No Other (feat. Jaimes)</string>
+			<key>Artist</key><string>Jay Hardway &#38; Lasso The Sun</string>
+			<key>Album Artist</key><string>Jay Hardway &#38; Lasso The Sun</string>
+			<key>Album</key><string>Like No Other (feat. Jaimes) - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5966901</integer>
+			<key>Total Time</key><integer>163333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-07-16T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Like No Other (feat. Jaimes) - Single</string>
+			<key>Sort Artist</key><string>Jay Hardway &#38; Lasso The Sun</string>
+			<key>Sort Name</key><string>Like No Other (feat. Jaimes)</string>
+			<key>Persistent ID</key><string>AE55E7FB263DB8C1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1163</key>
+		<dict>
+			<key>Track ID</key><integer>1163</integer>
+			<key>Name</key><string>Gotta Be You (Thomas Gold Remix)</string>
+			<key>Artist</key><string>NERVO &#38; Carla Monroe</string>
+			<key>Album Artist</key><string>NERVO &#38; Carla Monroe</string>
+			<key>Composer</key><string>Carla Monroe, Camden Cox, Jon Kong, Chris Adie &#38; Richard X</string>
+			<key>Album</key><string>Gotta Be You (Thomas Gold Remix) - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6569124</integer>
+			<key>Total Time</key><integer>181686</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-05-14T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gotta Be You (Thomas Gold Remix) - Single</string>
+			<key>Sort Artist</key><string>NERVO &#38; Carla Monroe</string>
+			<key>Sort Name</key><string>Gotta Be You (Thomas Gold Remix)</string>
+			<key>Persistent ID</key><string>B18016D61DCCD0DE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1165</key>
+		<dict>
+			<key>Track ID</key><integer>1165</integer>
+			<key>Name</key><string>My Mind (feat. Karina Ramage)</string>
+			<key>Artist</key><string>Tony Romera</string>
+			<key>Album Artist</key><string>Tony Romera</string>
+			<key>Composer</key><string>Anthony Romera &#38; Karina Julia Holloway</string>
+			<key>Album</key><string>Introspection</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6737967</integer>
+			<key>Total Time</key><integer>186000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-09-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Introspection</string>
+			<key>Sort Artist</key><string>Tony Romera</string>
+			<key>Sort Name</key><string>My Mind (feat. Karina Ramage)</string>
+			<key>Persistent ID</key><string>33B8676AA5AE4680</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1167</key>
+		<dict>
+			<key>Track ID</key><integer>1167</integer>
+			<key>Name</key><string>Drunk in Love</string>
+			<key>Artist</key><string>LUNAX</string>
+			<key>Album Artist</key><string>LUNAX</string>
+			<key>Composer</key><string>LUNAX, Stijn Kouwenhoven, Ben Thiele, Thore Schmakeit &#38; Fanny Sophia</string>
+			<key>Album</key><string>Slap House Party</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5990363</integer>
+			<key>Total Time</key><integer>165429</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-05-14T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Slap House Party</string>
+			<key>Sort Artist</key><string>LUNAX</string>
+			<key>Sort Name</key><string>Drunk in Love</string>
+			<key>Persistent ID</key><string>842EB44B15A206D6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1169</key>
+		<dict>
+			<key>Track ID</key><integer>1169</integer>
+			<key>Name</key><string>Untrue</string>
+			<key>Artist</key><string>Tchami</string>
+			<key>Album Artist</key><string>Tchami</string>
+			<key>Composer</key><string>Tchami</string>
+			<key>Album</key><string>Untrue - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8651586</integer>
+			<key>Total Time</key><integer>250413</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-07-31T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Untrue - Single</string>
+			<key>Sort Artist</key><string>Tchami</string>
+			<key>Sort Name</key><string>Untrue</string>
+			<key>Persistent ID</key><string>72D36E3F54B6E36A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1171</key>
+		<dict>
+			<key>Track ID</key><integer>1171</integer>
+			<key>Name</key><string>Shockwave</string>
+			<key>Artist</key><string>Marshmello</string>
+			<key>Album Artist</key><string>Marshmello</string>
+			<key>Composer</key><string>Marshmello</string>
+			<key>Album</key><string>Shockwave</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6562711</integer>
+			<key>Total Time</key><integer>181283</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Release Date</key><date>2021-06-11T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Shockwave</string>
+			<key>Sort Artist</key><string>Marshmello</string>
+			<key>Sort Name</key><string>Shockwave</string>
+			<key>Persistent ID</key><string>6B509A92C8C40988</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1173</key>
+		<dict>
+			<key>Track ID</key><integer>1173</integer>
+			<key>Name</key><string>Don't Be Shy</string>
+			<key>Artist</key><string>Tiësto &#38; KAROL G</string>
+			<key>Album Artist</key><string>Tiësto &#38; KAROL G</string>
+			<key>Composer</key><string>Carolina Giraldo, Jonas David Kroper, Teemu Brunila, Tijs M Verwest &#38; Yoshi Breen</string>
+			<key>Album</key><string>Don't Be Shy - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5158635</integer>
+			<key>Total Time</key><integer>140500</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-08-12T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Don't Be Shy - Single</string>
+			<key>Sort Artist</key><string>Tiësto &#38; KAROL G</string>
+			<key>Sort Name</key><string>Don't Be Shy</string>
+			<key>Persistent ID</key><string>F52B1691752056A9</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1175</key>
+		<dict>
+			<key>Track ID</key><integer>1175</integer>
+			<key>Name</key><string>Somebody To Love (Voost Remix)</string>
+			<key>Artist</key><string>Basstrologe</string>
+			<key>Album Artist</key><string>Basstrologe</string>
+			<key>Composer</key><string>Darby R. Slick</string>
+			<key>Album</key><string>Somebody To Love (Voost Remix) - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5239844</integer>
+			<key>Total Time</key><integer>141990</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-04-30T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Somebody To Love (Voost Remix) - Single</string>
+			<key>Sort Artist</key><string>Basstrologe</string>
+			<key>Sort Name</key><string>Somebody To Love (Voost Remix)</string>
+			<key>Persistent ID</key><string>D7A2E2ED688C42D4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1177</key>
+		<dict>
+			<key>Track ID</key><integer>1177</integer>
+			<key>Name</key><string>The Business, Pt. II</string>
+			<key>Artist</key><string>Tiësto &#38; Ty Dolla $ign</string>
+			<key>Album Artist</key><string>Tiësto &#38; Ty Dolla $ign</string>
+			<key>Composer</key><string>Tijs Verwest, Julia Karlsson, Anton Rundberg, James Bell &#38; Tyrone Griffin Jr</string>
+			<key>Album</key><string>The Business, Pt. II - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6055163</integer>
+			<key>Total Time</key><integer>164268</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-01-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Business, Pt. II - Single</string>
+			<key>Sort Artist</key><string>Tiësto &#38; Ty Dolla $ign</string>
+			<key>Sort Name</key><string>Business, Pt. II</string>
+			<key>Persistent ID</key><string>8F2742EA17786D69</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1179</key>
+		<dict>
+			<key>Track ID</key><integer>1179</integer>
+			<key>Name</key><string>Last Christmas</string>
+			<key>Artist</key><string>Eden Prince &#38; Karen Harding</string>
+			<key>Album Artist</key><string>Eden Prince &#38; Karen Harding</string>
+			<key>Composer</key><string>George Michael</string>
+			<key>Album</key><string>Last Christmas - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6064943</integer>
+			<key>Total Time</key><integer>167797</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-10-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Last Christmas - Single</string>
+			<key>Sort Artist</key><string>Eden Prince &#38; Karen Harding</string>
+			<key>Sort Name</key><string>Last Christmas</string>
+			<key>Persistent ID</key><string>BED5D90A53DB33C7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1181</key>
+		<dict>
+			<key>Track ID</key><integer>1181</integer>
+			<key>Name</key><string>My Universe (David Guetta Remix)</string>
+			<key>Artist</key><string>Coldplay &#38; BTS</string>
+			<key>Album Artist</key><string>Coldplay &#38; BTS</string>
+			<key>Composer</key><string>Bill Rahko, Chris Martin, Guy Berryman, Jonny Buckland, Max Martin, Oscar Holter, RM, Suga, Will Champion &#38; J-Hope</string>
+			<key>Album</key><string>My Universe (David Guetta Remix) - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7182966</integer>
+			<key>Total Time</key><integer>199136</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-11-19T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Universe (David Guetta Remix) - Single</string>
+			<key>Sort Artist</key><string>Coldplay &#38; BTS</string>
+			<key>Sort Name</key><string>My Universe (David Guetta Remix)</string>
+			<key>Persistent ID</key><string>E1FF44B513B27566</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>1183</key>
+		<dict>
+			<key>Track ID</key><integer>1183</integer>
+			<key>Name</key><string>Girl With The Leek</string>
+			<key>Artist</key><string>Sea Shanty</string>
+			<key>Album Artist</key><string>Sea Shanty</string>
+			<key>Composer</key><string>Addy Van Der Zwan, Anita Lehtola, Eino Kettunen, Hanni Autere, Mark Nieuwenhuijzen, Robin Snijder, Sari Kauranen &#38; Timo Väänänen</string>
+			<key>Album</key><string>Girl With The Leek - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5637464</integer>
+			<key>Total Time</key><integer>150968</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Added</key><date>2021-12-06T04:55:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-10-15T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Girl With The Leek - Single</string>
+			<key>Sort Artist</key><string>Sea Shanty</string>
+			<key>Sort Name</key><string>Girl With The Leek</string>
+			<key>Persistent ID</key><string>158A6BFFD211A228</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>EDM Hits</string>
+			<key>Description</key><string>Spine-tingling synths. Breathtaking builds. Killer hooks. Earthshaking drops. These are the best and the biggest songs in EDM right now. Our editors regularly refresh this playlist. If you like a track, add it to your library.</string>
+			<key>Playlist ID</key><integer>1324</integer>
+			<key>Playlist Persistent ID</key><string>12CE29131416561A</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>1181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1179</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1183</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1111</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1115</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1113</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1129</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1173</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1165</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1127</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1105</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1159</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1121</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1097</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1171</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1161</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1101</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1155</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1089</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1117</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1149</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1135</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1163</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1169</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1141</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1139</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1095</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1143</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1147</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1133</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1145</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1119</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1107</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1091</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1151</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1087</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1137</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1157</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1093</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1125</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1099</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1175</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1177</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1123</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1103</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1109</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
